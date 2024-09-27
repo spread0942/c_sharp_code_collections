@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "QueryRegister": {
+      "commandName": "Project",
+      "commandLineArgs": "\"HKLM\" \"SOFTWARE\\Microsoft\\Windows\" \"DevicePath\""
+    }
+  }
+}
